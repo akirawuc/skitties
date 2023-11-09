@@ -133,19 +133,21 @@ Unveil the delightful world of Skitties, your AI companion designed to keep you 
 <!-- Features -->
 ### :dart: Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- 📰 Feed Wizardry: Get personalized community feeds delivered straight to your Telegram. Your content, your way, effortlessly.
+- 🗞️ Summarize the Noise: Busy day? Skitties distills event details into bite-sized summaries, saving you time without sacrificing the scoop
+- 💬 Natural Chatter: Interact seamlessly with Skitties. Generate replies, posts, likes, and shares as if you're talking to a friend.
+
+
 
 <!-- Color Reference -->
 ### :art: Color Reference
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Primary Color | ![#222831](https://via.placeholder.com/10/222831?text=+) #222831 |
-| Secondary Color | ![#393E46](https://via.placeholder.com/10/393E46?text=+) #393E46 |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#EEEEEE](https://via.placeholder.com/10/EEEEEE?text=+) #EEEEEE |
+| Primary Color | ![#edc250](https://via.placeholder.com/10/222831?text=+) #edc250 |
+| Secondary Color | ![#ca212b](https://via.placeholder.com/10/393E46?text=+) #ca212b |
+| Accent Color | ![#33b46b](https://via.placeholder.com/10/00ADB5?text=+) #33b46b |
+
 
 
 <!-- Env Variables -->
@@ -241,10 +243,13 @@ function App() {
 ```
 
 <!-- Roadmap -->
-## :compass: Roadmap
+## :compass: Roadmap and future features
 
-* [x] Todo 1
-* [ ] Todo 2
+**🌈 Sentiment Maestro:** BuzzPal adapts its responses to your mood, ensuring a personalized and human-like touch.
+
+🚨 **Social Alerts:** Stay informed about your social media activity with instant Telegram notifications.
+
+🚀 **Quest Explorer:** Dive into quests for an extra layer of engagement and community building.
 
 
 <!-- Contributing -->
