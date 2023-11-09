@@ -78,7 +78,8 @@ Unveil the delightful world of Skitties, your AI companion designed to keep you 
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img src="https://placehold.co/600x400?text=Your+Screenshot+here" alt="screenshot" />
+  <img width="255" alt="Screenshot 2023-11-10 at 01 58 33" src="https://github.com/akirawuc/skitties/assets/88503953/774d5035-45f1-42d1-a29c-f6f051cfac12">
+    
 </div>
 
 
