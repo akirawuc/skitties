@@ -265,48 +265,10 @@ function App() {
 </a>
 
 
-Contributions are always welcome!
+| Member | Title | Description | Linkedin | GitHub   |
+| ----------- | ----------- | ----------- |----------- |----------- |
+| Yassine Landa  | xxxxxxxxxxxxxx  | Manage project content            | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
+| Min-Sheng (Akira) Wu | xxxxxxxxx | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
+| Natalie Leung  | xxxxxxxxxxxxxx  | xxxxxxxxxxxxxxx                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | ujjwal-webdev       |
+| Nada Jabr      | xxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
 
-See `contributing.md` for ways to get started.
-
-
-<!-- Code of Conduct -->
-### :scroll: Code of Conduct
-
-Please read the [Code of Conduct](https://github.com/Louis3797/awesome-readme-template/blob/master/CODE_OF_CONDUCT.md)
-
-<!-- FAQ -->
-## :grey_question: FAQ
-
-- Question 1
-
-  + Answer 1
-
-- Question 2
-
-  + Answer 2
-
-
-<!-- License -->
-## :warning: License
-
-Distributed under the no License. See LICENSE.txt for more information.
-
-
-<!-- Contact -->
-## :handshake: Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
-
-
-<!-- Acknowledgments -->
-## :gem: Acknowledgements
-
-Use this section to mention useful resources and libraries that you have used in your projects.
-
- - [Shields.io](https://shields.io/)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#travel--places)
- - [Readme Template](https://github.com/othneildrew/Best-README-Template)
