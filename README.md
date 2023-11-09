@@ -1,14 +1,11 @@
-# skitties
 
-
--->
 <div align="center">
 
   <Skitties>
   <h1>Skitties</h1>
   
   <p>
-    Your talkative sidekick, chirping up the latest buzz and community happenings! 
+     <h1>Your talkative sidekick, chirping up the latest buzz and community happenings!</h1>
   </p>
   
   
@@ -75,7 +72,7 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
+Unveil the delightful world of Skitties, your AI companion designed to keep you in the loop about the latest community happenings. Say goodbye to information overload and the fear of missing out on events – Skitties has got your back!
 
 <!-- Screenshots -->
 ### :camera: Screenshots
