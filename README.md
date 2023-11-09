@@ -290,6 +290,6 @@ function App() {
 | ----------- | ----------- | ----------- |----------- |----------- |
 | Yassine Landa  | xxxxxxxxxxxxxx  | Manage project content            | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
 | Min-Sheng (Akira) Wu | xxxxxxxxx | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
-| Natalie Leung  | xxxxxxxxxxxxxx  | xxxxxxxxxxxxxxx                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | ujjwal-webdev       |
+| Natalie Leung  | xxxxxxxxxxxxxx  | xxxxxxxxxxxxxxx                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | xxxxxxxxxxxxx       |
 | Nada Jabr      | xxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
 
