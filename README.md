@@ -5,10 +5,10 @@
 <div align="center">
 
   <Skitties>
-  <h1>Awesome Readme Template</h1>
+  <h1>Skitties</h1>
   
   <p>
-    An awesome README template for your projects! 
+    Your talkative sidekick, chirping up the latest buzz and community happenings! 
   </p>
   
   
