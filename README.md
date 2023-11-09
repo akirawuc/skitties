@@ -79,6 +79,22 @@
 ## :star2: About the Project
 Unveil the delightful world of Skitties, your AI companion designed to keep you in the loop about the latest community happenings. Say goodbye to information overload and the fear of missing out on events – Skitties has got your back!
 
+## The Challenge 🌪️: Information Overload & FOMO
+
+In the fast-paced world of crypto and community-building, staying on top of events and conversations can be overwhelming. FOMO (Fear of Missing Out) haunts every crypto user's journey.
+
+## BuzzPal's Magical Solution ✨:
+
+🎉 Community Building Simplified: Connect with like-minded individuals, foster new friendships, and build thriving communities effortlessly.
+
+⏰ Efficient Time Management: No more endless scrolling! **Skitties** curates content, ensuring you get the essence without investing hours.
+
+## Modes:
+
+👥 Private Chat: Tailor your BuzzPal experience with personalized conversations.
+
+🚀 Group Harmony: Elevate your group chats with BuzzPal's charm and utility.
+
 <!-- Screenshots -->
 ### :camera: Screenshots
 
