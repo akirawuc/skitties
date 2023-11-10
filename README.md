@@ -294,8 +294,8 @@ function App() {
 
 | Member  | Description | Linkedin | GitHub   |
 | ----------- | ----------- |----------- |----------- |
-| Yassine Landa  | xxxx            | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
+| Yassine Landa  |   Data scientist          | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
 | Min-Sheng (Akira) Wu | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
 | Natalie Leung  | UXUI / Graphic Designer                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | chaoticsoooul       |
-| Nada Jabr      |  xxxxxxxxxxxxxxxxxxxxxxxx          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
+| Nada Jabr      |  Product Manager          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
 
