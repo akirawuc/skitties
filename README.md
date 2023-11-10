@@ -292,10 +292,10 @@ function App() {
 </a>
 
 
-| Member | Title | Description | Linkedin | GitHub   |
-| ----------- | ----------- | ----------- |----------- |----------- |
-| Yassine Landa  | xxxxxxxxxxxxxx  | Manage project content            | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
-| Min-Sheng (Akira) Wu | xxxxxxxxx | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
-| Natalie Leung  | xxxxxxxxxxxxxx  | UXUI / Graphic Designer                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | chaoticsoooul       |
-| Nada Jabr      | xxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxxx          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
+| Member  | Description | Linkedin | GitHub   |
+| ----------- | ----------- |----------- |----------- |
+| Yassine Landa  | xxxx            | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
+| Min-Sheng (Akira) Wu | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
+| Natalie Leung  | UXUI / Graphic Designer                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | chaoticsoooul       |
+| Nada Jabr      |  xxxxxxxxxxxxxxxxxxxxxxxx          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
 
