@@ -184,16 +184,14 @@ To run this project, you will need to add the following environment variables to
 <!-- Prerequisites -->
 ### :bangbang: Prerequisites
 
-This project uses Yarn as package manager
+This project uses poetry as package manager
 
-```bash
- npm install --global yarn
-```
+You can follow this link to set-up https://python-poetry.org/docs/#installing-with-the-official-installer
 
 <!-- Installation -->
 ### :gear: Installation
 
-Install my-project with npm
+Install my-project with poetry
 
 ```bash
    poetry install
