@@ -196,8 +196,7 @@ This project uses Yarn as package manager
 Install my-project with npm
 
 ```bash
-  yarn install my-project
-  cd my-project
+   poetry install
 ```
    
 
@@ -207,25 +206,25 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/Louis3797/awesome-readme-template.git
+  git clone https://github.com/akirawuc/skitties.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd skitties
 ```
 
 Install dependencies
 
 ```bash
-  yarn install
+  poetry install
 ```
 
 Start the server
 
 ```bash
-  yarn start
+  poetry run python3 fc_auth.py
 ```
 
 
