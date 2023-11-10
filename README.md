@@ -93,6 +93,10 @@ In the fast-paced world of crypto and community-building, staying on top of even
 
 ⏰ Efficient Time Management: No more endless scrolling! **Skitties** curates content, ensuring you get the essence without investing hours.
 
+<!-- Modes -->
+## Target Audience :
+
+
 <!-- Features -->
 ### :dart: Features : 
 
@@ -107,6 +111,8 @@ In the fast-paced world of crypto and community-building, staying on top of even
 👥 Private Chat: Tailor your BuzzPal experience with personalized conversations.
 
 🚀 Group Harmony: Elevate your group chats with BuzzPal's charm and utility.
+
+
 
 <!-- Screenshots -->
 ### :camera: Screenshots
