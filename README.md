@@ -285,5 +285,6 @@ function App() {
 | Yassine Landa  |   Developer          | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
 | Min-Sheng (Akira) Wu | Developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
 | Natalie Leung  |  Designer                   | https://www.linkedin.com/in/natalie-leung-901b82276/   | chaoticsoooul       |
+| Qiao Liang  |  Developer                   | https://www.linkedin.com/in/qlcode/   | qbig       |
 | Nada Jabr      |  Product Manager          | https://www.linkedin.com/in/sanskar-tyagi-953a921b1/   | NJ-2021             |
 
