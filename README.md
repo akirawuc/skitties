@@ -14,36 +14,7 @@
   </p>
   
   
-<!-- Badges -->
-<p>
-  <a href="https://github.com/Louis3797/awesome-readme-template/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/Louis3797/awesome-readme-template" alt="contributors" />
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/github/last-commit/Louis3797/awesome-readme-template" alt="last update" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/network/members">
-    <img src="https://img.shields.io/github/forks/Louis3797/awesome-readme-template" alt="forks" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/stargazers">
-    <img src="https://img.shields.io/github/stars/Louis3797/awesome-readme-template" alt="stars" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/issues/">
-    <img src="https://img.shields.io/github/issues/Louis3797/awesome-readme-template" alt="open issues" />
-  </a>
-  <a href="https://github.com/Louis3797/awesome-readme-template/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Louis3797/awesome-readme-template.svg" alt="license" />
-  </a>
-</p>
-   
-<h4>
-    <a href="https://github.com/Louis3797/awesome-readme-template/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/Louis3797/awesome-readme-template/issues/">Request Feature</a>
+
   </h4>
 </div>
 
@@ -82,21 +53,33 @@ Unveil the delightful world of Skitties, your AI companion designed to keep you 
 In the fast-paced world of crypto and community-building, staying on top of events and conversations can be overwhelming. FOMO (Fear of Missing Out) haunts every crypto user's journey.
 
 
+
 <!-- Solution -->
  ## ✨ Skitties's Magical Solution :
 
-🎉 Community Building Simplified: Connect with like-minded individuals, foster new friendships, and build thriving communities effortlessly.
+  **Community Building Simplified:** Connect with like-minded individuals, foster new friendships, and build thriving communities effortlessly.
 
-⏰ Efficient Time Management: No more endless scrolling! **Skitties** curates content, ensuring you get the essence without investing hours.
+  **Efficient Time Management:** No more endless scrolling! **Skitties** curates content, ensuring you get the essence without investing hours.
 
 <!-- Modes -->
-## Target Audience :
+## 👥 Target Audience :
+
+
+**- Community Builders:** Those engaged in building and nurturing communities, seeking a tool to simplify communication and engagement.
+
+**- Event Attendees:** People interested in staying informed about upcoming events without being overwhelmed by information.
+
+**- Social Media Managers:** Individuals handling social media for projects, who want a streamlined way to manage content and interactions.
+
+**- Busy Professionals:** Professionals who want to stay connected but struggle with time management and information overload.
+
+**- Social Media Users:** Individuals active on various platforms who want to manage their online presence more effectively.
 
 
 <!-- Features -->
-### :dart: Features : 
+## :dart: Features : 
 
- 📰 Feed Wizardry: Get personalized community feeds delivered straight to your Telegram. Your content, your way, effortlessly.
+📰 Feed Wizardry: Get personalized community feeds delivered straight to your Telegram. Your content, your way, effortlessly.
 🗞️ Summarize the Noise: Busy day? Skitties distills event details into bite-sized summaries, saving you time without sacrificing the scoop
 💬 Natural Chatter: Interact seamlessly with Skitties. Generate replies, posts, likes, and shares as if you're talking to a friend.
 
@@ -107,6 +90,27 @@ In the fast-paced world of crypto and community-building, staying on top of even
 👥 Private Chat: Tailor your BuzzPal experience with personalized conversations.
 
 🚀 Group Harmony: Elevate your group chats with BuzzPal's charm and utility.
+
+
+<!-- Feasibility -->
+
+ ## 🤓 Feasibility:
+
+**Skitties** tackles the real-world issue of information overload and the fear of missing out on events in the crypto and social media space. With its features for efficient community management, streamlined event updates, and natural language interactions, the project is highly practical and addresses tangible user pain points. The integration with Telegram makes it accessible to a broad audience.
+
+<!-- Impact -->
+
+## 📑 Impact:
+
+The potential impact of **Skitties** is substantial. By simplifying community communication, aiding in event awareness, and facilitating natural interactions, it empowers crypto enthusiasts, community builders, and social media users. The impact extends to improved time management, enhanced community engagement, and streamlined social media presence.
+
+<!-- **Innovation/Technical Complexity** -->
+
+## 👩‍💻 Innovation/Technical Complexity:
+
+**Skitties** showcases innovation in its approach to handling information overload. The natural language processing for generating replies and posts, along with the ability to summarize content, demonstrates technical sophistication. While it builds on existing technologies like Telegram, its features introduce novel concepts, making it an innovative solution in the crypto community management space.
+
+
 
 
 
