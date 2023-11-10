@@ -284,6 +284,7 @@ function App() {
 🚀 **Quest Explorer:** Dive into quests for an extra layer of engagement and community building.
 
 
+
 <!-- Contributing -->
 ## :wave: Contributing
 
