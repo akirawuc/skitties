@@ -292,7 +292,7 @@ function App() {
 </a>
 
 
-| Member  | Description | Linkedin | GitHub   |
+| Member  | Role | Linkedin | GitHub   |
 | ----------- | ----------- |----------- |----------- |
 | Yassine Landa  |   Data scientist          | https://www.linkedin.com/in/yassine-landa-403355176/   | y10a                |
 | Min-Sheng (Akira) Wu | Data scientist/Full stack developer | https://www.linkedin.com/in/akirauc/               | akirawuc              |
