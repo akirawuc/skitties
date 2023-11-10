@@ -118,7 +118,8 @@ The potential impact of **Skitties** is substantial. By simplifying community co
 ### :camera: Screenshots
 
 <div align="center"> 
-  <img width="255" alt="Screenshot 2023-11-10 at 01 58 33" src="https://github.com/akirawuc/skitties/assets/88503953/774d5035-45f1-42d1-a29c-f6f051cfac12">
+<img width="858" alt="image" src="https://github.com/akirawuc/skitties/assets/88503953/f447b7c8-ebf3-4fc4-b79d-505780c63264">
+
     
 </div>
 
