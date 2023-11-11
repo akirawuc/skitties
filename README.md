@@ -119,6 +119,10 @@ The potential impact of **Skitties** is substantial. By simplifying community co
 
 <div align="center"> 
 <img width="858" alt="image" src="https://github.com/akirawuc/skitties/assets/88503953/f447b7c8-ebf3-4fc4-b79d-505780c63264">
+<img width="1038" alt="image" src="https://github.com/akirawuc/skitties/assets/88503953/4631e309-107f-4645-9997-1fe9bf0262df">
+<img width="1062" alt="Screenshot 2023-11-11 at 08 17 54" src="https://github.com/akirawuc/skitties/assets/88503953/c858dcba-4e28-48a6-923e-3ebb041ea583">
+
+
 
     
 </div>
