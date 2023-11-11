@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "skitties"
+version = "0.1.0"
+description = "AI companion designed to keep you in the loop about the latest community happenings"
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.13"
+python-telegram-bot = "^20.6"
+farcaster = "^0.7.10"
+python-dotenv = "^1.0.0"
+psycopg2-binary = "^2.9.9"
+pandas = "^2.1.2"
+mnemonic = "^0.20"
+requests = "^2.31.0"
+asyncio = "^3.4.3"
+logging = "^0.4.9.6"
+eth-keys = "^0.4.0"
+pynacl = "^1.5.0"
+openai = "0.28"
+qrcode = "^7.4.2"
+farcaster-py = "^0.0.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
